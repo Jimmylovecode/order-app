@@ -10,7 +10,7 @@
         <table class="table">
             <thead class="table table-default">
                 <tr>
-                    <th>品种</th>
+                    <th>品种a</th>
                     <th>删除</th>
                 </tr>
             </thead>
